@@ -1,0 +1,28 @@
+C:\Users\Carlos Jimenez\Desktop\server\obj\Debug\net8.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Jimenez\Desktop\server\obj\Debug\net8.0\server.AssemblyInfoInputs.cache
+C:\Users\Carlos Jimenez\Desktop\server\obj\Debug\net8.0\server.AssemblyInfo.cs
+C:\Users\Carlos Jimenez\Desktop\server\obj\Debug\net8.0\server.csproj.CoreCompileInputs.cache
+c:\Users\Carlos Jimenez\Desktop\server\bin\Debug\net8.0\server.exe
+c:\Users\Carlos Jimenez\Desktop\server\bin\Debug\net8.0\server.deps.json
+c:\Users\Carlos Jimenez\Desktop\server\bin\Debug\net8.0\server.runtimeconfig.json
+c:\Users\Carlos Jimenez\Desktop\server\bin\Debug\net8.0\server.dll
+c:\Users\Carlos Jimenez\Desktop\server\bin\Debug\net8.0\server.pdb
+c:\Users\Carlos Jimenez\Desktop\server\obj\Debug\net8.0\server.dll
+c:\Users\Carlos Jimenez\Desktop\server\obj\Debug\net8.0\refint\server.dll
+c:\Users\Carlos Jimenez\Desktop\server\obj\Debug\net8.0\server.pdb
+c:\Users\Carlos Jimenez\Desktop\server\obj\Debug\net8.0\server.genruntimeconfig.cache
+c:\Users\Carlos Jimenez\Desktop\server\obj\Debug\net8.0\ref\server.dll
+c:\Users\Carlos Jimenez\Desktop\Nueva carpeta (3)\server\bin\Debug\net8.0\server.exe
+c:\Users\Carlos Jimenez\Desktop\Nueva carpeta (3)\server\bin\Debug\net8.0\server.deps.json
+c:\Users\Carlos Jimenez\Desktop\Nueva carpeta (3)\server\bin\Debug\net8.0\server.runtimeconfig.json
+c:\Users\Carlos Jimenez\Desktop\Nueva carpeta (3)\server\bin\Debug\net8.0\server.dll
+c:\Users\Carlos Jimenez\Desktop\Nueva carpeta (3)\server\bin\Debug\net8.0\server.pdb
+c:\Users\Carlos Jimenez\Desktop\Nueva carpeta (3)\server\obj\Debug\net8.0\server.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Carlos Jimenez\Desktop\Nueva carpeta (3)\server\obj\Debug\net8.0\server.AssemblyInfoInputs.cache
+c:\Users\Carlos Jimenez\Desktop\Nueva carpeta (3)\server\obj\Debug\net8.0\server.AssemblyInfo.cs
+c:\Users\Carlos Jimenez\Desktop\Nueva carpeta (3)\server\obj\Debug\net8.0\server.csproj.CoreCompileInputs.cache
+c:\Users\Carlos Jimenez\Desktop\Nueva carpeta (3)\server\obj\Debug\net8.0\server.dll
+c:\Users\Carlos Jimenez\Desktop\Nueva carpeta (3)\server\obj\Debug\net8.0\refint\server.dll
+c:\Users\Carlos Jimenez\Desktop\Nueva carpeta (3)\server\obj\Debug\net8.0\server.pdb
+c:\Users\Carlos Jimenez\Desktop\Nueva carpeta (3)\server\obj\Debug\net8.0\server.genruntimeconfig.cache
+c:\Users\Carlos Jimenez\Desktop\Nueva carpeta (3)\server\obj\Debug\net8.0\ref\server.dll
